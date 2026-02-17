@@ -1489,4 +1489,5 @@ async def on_ready():
         print(f"❌ Sync failed: {e}")
 
 # --- Run Bot ---
-bot.run("MTQyODc1MzkxMDUyODczNzI5MQ.GaJZMc.HqXb-r_OFURZ9dGzfqQ0Md8If9UBJCqX9b__qM")
+bot.run("")
+
